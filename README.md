@@ -1,5 +1,5 @@
-# App para ventas de productos
-Esta es una aplicación básica que emula la venta de un producto.
+# App para Registro de citas
+Esta es una aplicación básica que registra citas veterinarias.
 
 Esta app realiza lo siguiente:
 
